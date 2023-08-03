@@ -1,0 +1,17 @@
+*{	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Pridi', serif;
+	}
+
+
+
+.button-design{
+	background: limegreen;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+	color: white;
+	letter-spacing: 2px;
+}
+
